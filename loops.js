@@ -38,7 +38,7 @@ function doWhile (array){
   do{array.pop()
     
   }
-while
+while(array.length-1)
   
 }
 
