@@ -27,5 +27,5 @@ function whileLoop(n){
   while(countDown > 0){
     console.log(--countDown)
   }
-  return console.log("done")
+  return "done";
 }
