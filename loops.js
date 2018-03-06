@@ -20,5 +20,12 @@ else{
 }    
   }
 return array;
-  
+  }
+
+function whileLoop(n){
+  let n=countDown;
+  while(countDown > 0){
+    console.log(--countDown)
+  }
+  return console.log("done")
 }
