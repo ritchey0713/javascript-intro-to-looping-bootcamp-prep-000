@@ -35,7 +35,7 @@ function doWhile (array){
   return Math.random() >= 0.5
 }
 
-  do{}
+  do{array.pop}
 }
 
 
