@@ -22,8 +22,8 @@ else{
 return array;
   }
 
-function whileLoop(countDown){
-   countDown = 10;
+function whileLoop(n){
+   let countDown = n;
   while(countDown > 0){
     console.log(--countDown)
   }
