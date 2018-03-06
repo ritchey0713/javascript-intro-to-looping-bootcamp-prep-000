@@ -19,4 +19,6 @@ else{
   console.log("I am ${i} strange loops");
 }    
   }
+return forLoop;
+  
 }
